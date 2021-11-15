@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago Carvalho
 - 👀 I’m interested to learn about Dev Android, Python and Data Science
-- 🌱 I’m currently learning Kotlin for Android development at Santander's bootcamp.
+- 🌱 I’m currently learning Kotlin and python, and already creating some apps and softwares.
 - 📫 To reach me, just send me an email: tgthiag@gmail.com
 
 <!---
