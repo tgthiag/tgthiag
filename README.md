@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thiago Carvalho
-- 👀 I can code using Kotlin/Java, Flutter/Dart & Python, my main app on Google Play Store is not listed here for strategic purposes.
+- 👀 I can code using Kotlin/Java, Flutter/Dart, Python & Javascript. My main app on Google Play Store is not listed here for strategic purposes.
 - 🌱 I’m studying programming languages and frameworks to create mobile & desktop applications.
 - 📫 To reach me, just send me an email: tgthiag@gmail.com, or just send a message: +55 11 979717703
 
