@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago Carvalho
 - 👀 I can code using Kotlin/Java, Flutter/Dart, Python, Javascript, HTML & CSS.
-- 🌱 I currently have a internship with TheGamers.com.br as a React frontend developer.
+- 🌱 At the moment, I'm an intern in React.Js web development at "The Gamers"
 - 📫 To reach me, send me an email: tgthiag@gmail.com, or just send a message: +55 11 979717703
 
 <!---
