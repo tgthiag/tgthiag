@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Thiago Carvalho
-- 👀 I can code using Kotlin/Java, Flutter/Dart, Python, Javascript, HTML & CSS.
-- 🌱 At the moment, I'm an intern in React.Js web development at "The Gamers"
-- 📫 To reach me, send me an email: tgthiag@gmail.com, or just send a message: +55 11 979717703
+# Welcome to My Github Profile! 🌟
 
-<!---
-tgthiag/tgthiag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- My name is Thiago Carvalho, and I'm a software developer 👨‍💻
+- At the moment, I'm an intern in ReactJs Web development at "The Gamers" 🌱
+- I can code in Kotlin/Java, Flutter/Dart, Python, Javascript, HTML & CSS 👀
+- I've worked on real-world projects, and I'm always looking for new challenges 🚀
+
+## Contact Info
+- Email: tgthiag@gmail.com 📧
+- Phone: +55 11 979717703 📱
+- [Click here to contact me on WhatsApp!](https://api.whatsapp.com/send/?phone=5511979717703&text=Ol%C3%A1%20Thiago!&type=phone_number&app_absent=0) 📲
+
+## Job Opportunities
+- I'm always interested in exploring new job opportunities in software development, so if you're looking for a talented and motivated developer, reach out to me! 💼
+
+
+Feel free to contact me if you have any questions or just want to chat!
