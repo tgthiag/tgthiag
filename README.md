@@ -2,9 +2,9 @@
 
 ## About Me
 - My name is Thiago Carvalho, and I'm a software developer 👨‍💻
-- At the moment, I'm an intern in ReactJs Web development at "The Gamers" 🌱
+- At the moment, I'm an analyst/developer at Saint-Gobain 🌱
 - I can code in Kotlin/Java, Flutter/Dart, Python, Javascript, HTML & CSS 👀
-- I've worked on real-world projects, and I'm always looking for new challenges 🚀
+- I work on real-world projects and manufacturing digital solutions, and I'm always looking for new challenges 🚀
 
 ## Contact Info
 - Email: tgthiag@gmail.com 📧
