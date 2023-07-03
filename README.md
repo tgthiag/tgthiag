@@ -4,7 +4,7 @@
 - My name is Thiago Carvalho, and I'm a software developer 👨‍💻
 - At the moment, I'm an analyst/developer at Saint-Gobain 🌱
 - I can code in Kotlin/Java, Flutter/Dart, Python, Javascript, HTML & CSS 👀
-- I work on real-world projects, android apps, rpa, 4.0 manufacture digital solutions, and I'm always looking for new challenges 🚀
+- I work on real-world projects, android apps, web & desktop apps, rpa, 4.0 manufacture digital solutions, and I'm always looking for new challenges 🚀
 
 *Some projects are marked as private and cannot be shown here due to companies sensitive data.
 
