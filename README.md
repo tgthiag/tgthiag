@@ -1,5 +1,6 @@
 # Welcome to My Github Profile! 🌟
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tgthiag&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tgthiag&theme=aura_dark)
 ## About Me
 - My name is Thiago Carvalho, and I'm a software developer 👨‍💻
 - At the moment, I'm a Full Stack Developer at Zona Azul Brasil🌱
