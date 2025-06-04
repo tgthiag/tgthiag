@@ -2,12 +2,19 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tgthiag&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tgthiag&theme=aura_dark)
 ## About Me
-- My name is Thiago Carvalho, and I'm a software developer 👨‍💻
-- At the moment, I'm a Full Stack Developer at Zona Azul Brasil🌱
-- I can code in Kotlin/Java, Flutter/Dart, Python, Javascript, HTML & CSS 👀
-- I work on real-world projects, android apps, web & desktop apps, rpa, 4.0 manufacture digital solutions, and I'm always looking for new challenges 🚀
+👋 Hi, I’m Thiago Carvalho, a software developer leading a small team that helps companies worldwide to:
 
-*Some projects are marked as private and cannot be shown here due to companies sensitive data.
+- Build cross-platform mobile apps (Android/iOS) and websites
+
+- Develop API integrations for clients around the globe
+
+- Work on real-world projects: Android apps, web & desktop applications, RPA solutions, and digital Industry 4.0 transformations
+
+- Technologies: Kotlin/Java, Flutter/Dart, Python, JavaScript, HTML & CSS
+
+- Always looking for new challenges and collaborations 🚀
+
+Some projects are private and cannot be shown here due to sensitive company data.
 
 ## Contact Info
 - Email: tgthiag@gmail.com 📧
