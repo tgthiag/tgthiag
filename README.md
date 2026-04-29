@@ -1,28 +1,40 @@
-# Welcome to My Github Profile! 🌟
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tgthiag&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tgthiag&theme=aura_dark)
+# Thiago Carvalho - Full Stack & Mobile Engineer
+
+Founder and software developer at [TG Apps](https://tgapps.dev).
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tgthiag&theme=aura_dark)
+
 ## About Me
-👋 Hi, I’m Thiago Carvalho, a software developer
 
-- Build cross-platform mobile apps (Android/iOS) and websites
+I build practical software for founders, startups, and growing businesses: custom apps, CRM systems, internal tools, backend platforms, dashboards, automations, and AI integrations.
 
-- Develop API integrations for clients around the globe
+Most client work is private because it involves business operations, internal systems, credentials, customer data, and NDA-sensitive repositories. Public repositories here may include experiments, utilities, learning projects, and selected product work.
 
-- Work on real-world projects: Android apps, web & desktop applications, RPA solutions, and digital Industry 4.0 transformations
+## What I work on
 
-- Technologies: Kotlin/Java, Flutter/Dart, Python, JavaScript, HTML & CSS
+- Mobile apps for Android and iOS
+- Custom CRM and internal business systems
+- Backend APIs, databases, dashboards, and integrations
+- App rescue and release execution for unfinished or stalled products
+- AI and LLM integrations with practical guardrails
+- Born-global apps with multilingual UX and contextual localization
 
-- Always looking for new challenges and collaborations 🚀
+## TG Apps
 
-Some projects are private and cannot be shown here due to sensitive company data.
+TG Apps is a founder-led, team-delivered software studio. We work with a compact core team and scope-based collaborators when projects need more capacity or specific expertise.
 
-## Contact Info
-- Email: tgthiag@gmail.com 📧
-- Phone: +55 11 979717703 📱
-- [Click here to contact me on WhatsApp!](https://api.whatsapp.com/send/?phone=5511979717703&text=Ol%C3%A1%20Thiago!&type=phone_number&app_absent=0) 📲
+We follow the agreed client plan, provide implementation insight when useful, and focus on clean delivery: written scope, weekly demos, release support, documentation, and handoff when applicable.
 
-## Job Opportunities
-- I'm always interested in exploring new job opportunities in software development, so if you're looking for a talented and motivated developer, reach out to me! 💼
+Website: [tgapps.dev](https://tgapps.dev)  
+Contact: [support@tgapps.dev](mailto:support@tgapps.dev)  
+WhatsApp: [message me about a software project](https://wa.me/5511979717703?text=Hi%20Thiago%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20talk%20about%20a%20software%20project)  
+LinkedIn: [linkedin.com/in/tgthiag](https://www.linkedin.com/in/tgthiag/)
 
+## Notes
 
-Feel free to contact me if you have any questions or just want to chat!
+If you are looking at this profile for due diligence, the best public references are:
+
+- [TG Apps website](https://tgapps.dev)
+- [Company profile](https://tgapps.dev/company-profile)
+- [Due diligence profile](https://tgapps.dev/due-diligence)
+- [LLM profile](https://tgapps.dev/llms.txt)
