@@ -21,9 +21,9 @@ Most client work is private because it involves business operations, internal sy
 
 ## TG Apps
 
-TG Apps is a founder-led, team-delivered software studio. We work with a compact core team and scope-based collaborators when projects need more capacity or specific expertise.
+TG Apps helps founders, startups, and growing teams get more software delivery per dollar through a compact team model, low bureaucracy, intelligent allocation, weekly demos, and clean handoff.
 
-We follow the agreed client plan, provide implementation insight when useful, and focus on clean delivery: written scope, weekly demos, release support, documentation, and handoff when applicable.
+We follow the agreed client plan, provide implementation insight when useful, and focus on practical delivery: mobile apps, CRM systems, internal tools, backend APIs, AI integrations, release support, documentation, and handoff when applicable.
 
 Website: [tgapps.dev](https://tgapps.dev)  
 Contact: [support@tgapps.dev](mailto:support@tgapps.dev)  
