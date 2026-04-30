@@ -1,6 +1,6 @@
 # Thiago Carvalho - Full Stack & Mobile Engineer
 
-Founder and software developer at [TG Apps](https://tgapps.dev).
+Founder and software developer at [Tg Apps](https://tgapps.dev), a custom software studio focused on high-output delivery for apps, CRM, internal tools, backend platforms, and AI integrations.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tgthiag&theme=aura_dark)
 
@@ -19,9 +19,9 @@ Most client work is private because it involves business operations, internal sy
 - AI and LLM integrations with practical guardrails
 - Born-global apps with multilingual UX and contextual localization
 
-## TG Apps
+## Tg Apps
 
-TG Apps helps founders, startups, and growing teams get more software delivery per dollar through a compact team model, low bureaucracy, intelligent allocation, weekly demos, and clean handoff.
+Tg Apps helps founders, startups, and growing teams get more software delivery per dollar through a compact team model, low bureaucracy, intelligent allocation, weekly demos, and clean handoff.
 
 We follow the agreed client plan, provide implementation insight when useful, and focus on practical delivery: mobile apps, CRM systems, internal tools, backend APIs, AI integrations, release support, documentation, and handoff when applicable.
 
@@ -34,7 +34,7 @@ LinkedIn: [linkedin.com/in/tgthiag](https://www.linkedin.com/in/tgthiag/)
 
 If you are looking at this profile for due diligence, the best public references are:
 
-- [TG Apps website](https://tgapps.dev)
+- [Tg Apps website](https://tgapps.dev)
 - [Company profile](https://tgapps.dev/company-profile)
 - [Due diligence profile](https://tgapps.dev/due-diligence)
 - [LLM profile](https://tgapps.dev/llms.txt)
